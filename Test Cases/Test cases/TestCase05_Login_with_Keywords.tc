@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase05_Login_with_Keywords</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d5f5fc5-af62-40b9-b55b-45b53a830d3a</testCaseGuid>
+</TestCaseEntity>

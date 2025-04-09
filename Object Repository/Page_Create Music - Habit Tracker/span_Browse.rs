@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Browse</name>
+   <tag></tag>
+   <elementGuidId>5d73b85d-a6ef-4c7f-8c4a-33d5dda02f94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#filepond--drop-label-wyzxnt2gl > span.filepond--label-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='filepond--drop-label-wyzxnt2gl']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#filepond--drop-label-wyzxnt2gl >> internal:text=&quot;Browse&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c75add56-3c7a-4ad3-85f4-087705c8e065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filepond--label-action</value>
+      <webElementGuid>2271089e-9c09-4a7c-853a-da1c236b71bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ae78cc52-0e4d-49bd-9921-89104fc95e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Browse </value>
+      <webElementGuid>33c05c34-792b-4f17-a1e4-21630987b700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filepond--drop-label-wyzxnt2gl&quot;)/span[@class=&quot;filepond--label-action&quot;]</value>
+      <webElementGuid>e766867c-3b11-4c8d-98b4-fcfa7f9ec34a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='filepond--drop-label-wyzxnt2gl']/span</value>
+      <webElementGuid>444d7da8-b4b6-4868-b1c3-6f617e2820bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[1]</value>
+      <webElementGuid>9744d26f-ecbb-4ce6-926a-4e354ef6eec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Files'])[2]/preceding::span[2]</value>
+      <webElementGuid>db6c5431-1cd8-40ea-8ff3-4151c66b8255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[2]/preceding::span[2]</value>
+      <webElementGuid>94cb70b9-2f5f-4533-ad8c-b9ddb05f416e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/label/span</value>
+      <webElementGuid>7f9d718c-2459-44a0-b04a-62f6e179be8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Browse ' or . = ' Browse ')]</value>
+      <webElementGuid>af01fcaf-feb3-4b28-a74e-54618caafe4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

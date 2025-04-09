@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_14</name>
+   <tag></tag>
+   <elementGuidId>a03cca35-5f11-4a1f-aa5b-6dcfad75e94a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bar-inner']/ul/li[2]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;الأخبار العامة&quot;] > span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe754c85-e2e5-4e2a-9b28-23ad00c7d573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>70790cd4-f81c-4c0e-ae88-52803829701f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>الأخبار العامة 14</value>
+      <webElementGuid>7e19a4e1-8341-42d4-a27e-f91a350cce1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bar-inner&quot;)/ul[@class=&quot;menus text-center&quot;]/li[@class=&quot;classic  open&quot;]/ul[@class=&quot;classic  myClassic&quot;]/li[1]/a[1]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>ef9800fd-4e7b-4891-9a84-91df6529b9c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bar-inner']/ul/li[2]/ul/li/a/span</value>
+      <webElementGuid>0f6d82c7-5824-4084-860e-a7a9b0af55c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[2]</value>
+      <webElementGuid>4cdba61b-c63e-43fc-ad3b-8f77a78888a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='الأخبار العامة']/parent::*</value>
+      <webElementGuid>54ee27a6-9c60-43d4-b8d3-5a562070dcf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a/span</value>
+      <webElementGuid>6f81e5d2-99d0-41ef-ad36-fffc2d824da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'الأخبار العامة 14' or . = 'الأخبار العامة 14')]</value>
+      <webElementGuid>2127f48f-e203-4568-8f75-19afc0907433</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

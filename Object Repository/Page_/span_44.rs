@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_44</name>
+   <tag></tag>
+   <elementGuidId>ee862b97-a6e9-4431-a122-9bcea5c54d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bar-inner']/ul/li[2]/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;أخبار المواليد&quot;] > span.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2a9b9e7-5515-44ca-89d6-9bc0592fed9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>557c060b-7fa4-4a2f-b93c-e3a6a11175c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>أخبار المواليد 44</value>
+      <webElementGuid>d96ff37c-159b-4b99-b564-2fea8535e87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bar-inner&quot;)/ul[@class=&quot;menus text-center&quot;]/li[@class=&quot;classic 1 open&quot;]/ul[@class=&quot;classic  myClassic&quot;]/li[2]/a[1]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>a53854ab-2577-4269-abb1-bb1ebc1c705c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bar-inner']/ul/li[2]/ul/li[2]/a/span</value>
+      <webElementGuid>012c3879-ef4e-4354-973c-cd91bf0fcf76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[4]</value>
+      <webElementGuid>4e2b4606-6f4c-4727-8b06-e7f1b3a04563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='أخبار المواليد']/parent::*</value>
+      <webElementGuid>f19b5ef7-b2da-49a2-9f91-16afd56b8167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a/span</value>
+      <webElementGuid>270e4ad5-d066-4bc5-818f-a257b45706f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'أخبار المواليد 44' or . = 'أخبار المواليد 44')]</value>
+      <webElementGuid>ffd965d6-c996-4da9-ac84-db40b8150f34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

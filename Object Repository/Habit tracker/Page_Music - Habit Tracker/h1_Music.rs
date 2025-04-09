@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Music</name>
+   <tag></tag>
+   <elementGuidId>cb1569cb-147a-4933-aee4-4562d4bb6fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Music&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e9b820a3-4fc3-4978-a6d4-104d1bdd924b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-header-heading text-2xl font-bold tracking-tight text-gray-950 dark:text-white sm:text-3xl</value>
+      <webElementGuid>b2936ffc-2a8a-4dfe-a2f3-a2575335f7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Music
+        </value>
+      <webElementGuid>3c7744f5-2ec2-4373-b7f1-03b371018eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi min-h-screen&quot;]/body[@class=&quot;fi-body fi-panel-admin min-h-screen bg-gray-50 font-normal text-gray-950 antialiased dark:bg-gray-950 dark:text-white&quot;]/div[@class=&quot;fi-layout flex min-h-screen w-full flex-row-reverse overflow-x-clip&quot;]/div[@class=&quot;fi-main-ctn w-screen flex-1 flex-col opacity-0&quot;]/main[@class=&quot;fi-main mx-auto h-full w-full px-4 md:px-6 lg:px-8 max-w-7xl&quot;]/div[@class=&quot;fi-page fi-resource-list-records-page fi-resource-music&quot;]/section[@class=&quot;flex flex-col gap-y-8 py-8&quot;]/header[@class=&quot;fi-header flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between&quot;]/div[1]/h1[@class=&quot;fi-header-heading text-2xl font-bold tracking-tight text-gray-950 dark:text-white sm:text-3xl&quot;]</value>
+      <webElementGuid>db15421e-08d1-400b-8157-b7b98dcec838</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::h1[1]</value>
+      <webElementGuid>5114c0c8-6993-4827-8501-880a09e199df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/following::h1[1]</value>
+      <webElementGuid>076a27a3-599f-4ab8-b8b8-142af0f5d2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Music'])[1]/preceding::h1[1]</value>
+      <webElementGuid>fc5d6097-4a39-4cff-b39c-654d5a9a8c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete selected'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e611efa6-b09d-4a4c-9a48-765156103a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>dd33d13b-ecee-4055-825c-4888e71683b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+            Music
+        ' or . = '
+            Music
+        ')]</value>
+      <webElementGuid>708ec44c-0ca5-4d6c-973a-ac3fb91082c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

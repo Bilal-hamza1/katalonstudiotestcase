@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is for description</description>
+   <name>TestCase03_Script-AlKadi-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>464611de-20e6-4704-8d4f-4e5c6d612c0b</testCaseGuid>
+</TestCaseEntity>

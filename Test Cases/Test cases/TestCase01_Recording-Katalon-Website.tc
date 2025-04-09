@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is description</description>
+   <name>TestCase01_Recording-Katalon-Website</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd57e134-5c41-43bd-8d8f-7df636606e58</testCaseGuid>
+</TestCaseEntity>

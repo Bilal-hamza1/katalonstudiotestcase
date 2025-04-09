@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__btn btn-info btn-cons btn-submit</name>
+   <tag></tag>
+   <elementGuidId>b9bdc955-0327-499d-b2a7-2a2cd16dda02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='التالي'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pull-right > input.btn.btn-info.btn-cons.btn-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8dfcf43e-8dab-4735-b403-9b7d423d2ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-cons btn-submit</value>
+      <webElementGuid>092582c7-f467-4f6c-a356-51b4acd88d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5ef7b8c3-c7b4-463d-90c2-0b8d9b86e23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>التالي</value>
+      <webElementGuid>cc474f5a-4ac0-489b-a217-2e2a4042e924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_locations_form&quot;)/div[@class=&quot;form-actions&quot;]/div[@class=&quot;pull-right&quot;]/input[@class=&quot;btn btn-info btn-cons btn-submit&quot;]</value>
+      <webElementGuid>cc61f7bf-633a-45c8-8889-41a2be2e098b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='التالي'])[2]</value>
+      <webElementGuid>70262a8b-3c16-4c42-91bb-f2fc5c24538d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add_locations_form']/div[6]/div/input</value>
+      <webElementGuid>9eb2c5f2-89f7-4ba2-8cc8-6e63be711f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>ac4d8772-f726-4eb4-9e47-af3d2d633ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>301033da-54c3-44ef-9bb4-5e05877ba43a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

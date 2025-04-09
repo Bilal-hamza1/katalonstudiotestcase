@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__fa fa-plus_1</name>
+   <tag></tag>
+   <elementGuidId>7be6e744-3892-4345-ba27-26120d8a1e96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='motherfamilyPeopleRows']/li/div/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#motherfamilyPeopleRows > li > div.row > div:nth-of-type(3) > a.btn.btn-primary.btn-small > i.fa.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b9018f52-989e-4287-97dd-e93f20f76d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>79b65037-0a22-4c32-813b-e314c0183417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;motherfamilyPeopleRows&quot;)/li[1]/div[@class=&quot;row&quot;]/div[3]/a[@class=&quot;btn btn-primary btn-small&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>26de350e-7d8d-4e5b-a3d5-5f7bd4f00e46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='motherfamilyPeopleRows']/li/div/div[3]/a/i</value>
+      <webElementGuid>00604312-0cb2-43df-b685-b6f2ea635c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[2]/nav/ul/li/div/div[3]/a/i</value>
+      <webElementGuid>fd69f419-c26c-405f-ac52-14ccfece047a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='fatherfamilyPeopleRows']/li[9]/div/div[3]/a/i</value>
+      <webElementGuid>f127ed46-edea-4f86-bc26-de1845a06722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div[2]/nav/ul/li[9]/div/div[3]/a/i</value>
+      <webElementGuid>ea97293e-510c-4649-a2ee-c5a3f2f5704c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

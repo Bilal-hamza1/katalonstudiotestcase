@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__imgareaselect-outer</name>
+   <tag></tag>
+   <elementGuidId>cbf623a7-3867-42d6-9026-32c13dc24c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e66b5c4-0046-4da7-ac51-e9f4f7788304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>imgareaselect-outer</value>
+      <webElementGuid>3054bc79-aad8-440f-a883-9d7dd48d5617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;rtl horizontal-menu   breakpoint-1024 pace-done&quot;]/div[@class=&quot;imgareaselect-outer&quot;]</value>
+      <webElementGuid>74fefb5c-c996-4f18-9905-5328e74a8ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]</value>
+      <webElementGuid>2a3831df-41f9-4b82-b55f-a84de94c1008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

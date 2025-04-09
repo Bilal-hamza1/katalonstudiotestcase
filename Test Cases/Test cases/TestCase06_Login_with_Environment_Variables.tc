@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase06_Login_with_Environment_Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85bba5a1-b72b-475e-b9a5-40ef330e6663</testCaseGuid>
+</TestCaseEntity>

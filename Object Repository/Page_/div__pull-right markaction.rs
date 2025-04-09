@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__pull-right markaction</name>
+   <tag></tag>
+   <elementGuidId>841c88c0-15f7-4cc3-a9ec-7633bdc0e3c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ParentForm']/div[7]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pull-right.markaction</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0418568-b2b7-4b4a-9a0c-9f98966819a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right markaction</value>
+      <webElementGuid>8eaa0d5a-9ef5-4d2e-99b8-a7eb6dfe0158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ParentForm&quot;)/div[@class=&quot;form-actions&quot;]/div[@class=&quot;pull-right markaction&quot;]</value>
+      <webElementGuid>fe769ae3-0785-4285-aa88-350ec9b0835c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ParentForm']/div[7]/div</value>
+      <webElementGuid>0a443b37-e5c4-4bf9-b889-7bf469bdd787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إلغاء'])[1]/following::div[1]</value>
+      <webElementGuid>83fa6b4e-81f9-4d55-aef4-c3d03cca99cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الام من خارج الاسرة'])[1]/following::div[2]</value>
+      <webElementGuid>d0559da9-47e1-431c-b682-01e8032193a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/preceding::div[2]</value>
+      <webElementGuid>72a4a385-84c5-4da4-b323-14ca71a908ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/preceding::div[2]</value>
+      <webElementGuid>a17e6977-e498-4857-8ff3-26b3ec941561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>78599ec7-3ac5-47a7-a7cb-d9d34aede32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

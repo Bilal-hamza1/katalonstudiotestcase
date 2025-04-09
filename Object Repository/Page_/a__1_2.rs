@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>355d1742-aaf2-4730-a634-1312477e87dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pushNotificationModal']/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-footer > a.btn.btn-primary.btn-cons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbd53fe1-5478-4f98-8d14-f71a10777850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://testing.aljomaihfamilyapp.com/admin/birthNews/137/summry?complete=yes&amp;status=publish&amp;push=no</value>
+      <webElementGuid>a7aba43e-1a1b-4c5c-a8d6-e0d6414da385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>230949ed-d532-4915-b645-e0d2bc7b02ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#formModal</value>
+      <webElementGuid>1822a944-f114-455c-885c-92b98157a1b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-cons</value>
+      <webElementGuid>7006b824-8088-4a1f-bdde-823ec7ccbecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add_picture_btn</value>
+      <webElementGuid>d3970357-50e1-4a35-895d-5f9f826a7810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>نشر فقط</value>
+      <webElementGuid>685af498-89fa-465d-bf1d-5ee4842a054a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pushNotificationModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/a[@class=&quot;btn btn-primary btn-cons&quot;]</value>
+      <webElementGuid>9239c523-298b-4388-a3c3-854d638f026a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pushNotificationModal']/div/div/div[2]/a</value>
+      <webElementGuid>dab0f2c6-dd56-458a-ba51-5c9c9c09053f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'نشر فقط')]</value>
+      <webElementGuid>2799f70c-1c20-42fb-a449-7131e17457d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إلغاء'])[2]/following::a[1]</value>
+      <webElementGuid>154a965c-eccd-4591-84f6-fd0a2d1ed5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اكتب رسالة التنبيه في الاسفل'])[1]/following::a[1]</value>
+      <webElementGuid>38b9d6cf-2ef2-4812-96d4-48f0dd793d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نشر مع ارسال تنبيه'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fa2ec17-7532-4e39-a0d5-29f94871ee27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='لا'])[2]/preceding::a[2]</value>
+      <webElementGuid>cc0aded4-5ec4-43c8-8cba-7a685f1f56c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='نشر فقط']/parent::*</value>
+      <webElementGuid>08a8a0a6-3de8-4cf7-a1d3-41536f7f5bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://testing.aljomaihfamilyapp.com/admin/birthNews/137/summry?complete=yes&amp;status=publish&amp;push=no')]</value>
+      <webElementGuid>d9092e7e-35d3-4ad4-bea1-6f98c1a1b087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/a</value>
+      <webElementGuid>18ed3a6d-21a5-4b48-9b8d-93f014c48664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://testing.aljomaihfamilyapp.com/admin/birthNews/137/summry?complete=yes&amp;status=publish&amp;push=no' and (text() = 'نشر فقط' or . = 'نشر فقط')]</value>
+      <webElementGuid>dbf5a283-8c2f-4f28-967a-042dc1bdd6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://testing.aljomaihfamilyapp.com/admin/birthNews/136/summry?complete=yes&amp;status=publish&amp;push=no')]</value>
+      <webElementGuid>5d2f31d1-98eb-4bb9-98dd-af86b3c0fd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://testing.aljomaihfamilyapp.com/admin/birthNews/136/summry?complete=yes&amp;status=publish&amp;push=no' and (text() = 'نشر فقط' or . = 'نشر فقط')]</value>
+      <webElementGuid>365c1899-adcd-4a52-9c22-0029910a3e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://testing.aljomaihfamilyapp.com/admin/birthNews/131/summry?complete=yes&amp;status=publish&amp;push=no')]</value>
+      <webElementGuid>623e7e1b-715a-4906-a9ec-51d249854efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://testing.aljomaihfamilyapp.com/admin/birthNews/131/summry?complete=yes&amp;status=publish&amp;push=no' and (text() = 'نشر فقط' or . = 'نشر فقط')]</value>
+      <webElementGuid>d5ca0e8b-548e-4e67-9bc3-e6368f9ab727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add_picture_btn']</value>
+      <webElementGuid>a9a6d9eb-01f7-48aa-9f3e-da71730b2656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'إضافة الصور')]</value>
+      <webElementGuid>0a3f220b-0715-4cfa-b00f-a1174fcb2464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حذف'])[1]/following::a[1]</value>
+      <webElementGuid>42710222-b920-4acc-8339-eb606af1b563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الصور الإضافية'])[2]/following::a[2]</value>
+      <webElementGuid>4b5abccb-f8d4-4801-90e1-007120d28eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الصورة'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd9313e2-456b-49ca-a2b2-f72c1063d2b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='النص المرافق'])[1]/preceding::a[1]</value>
+      <webElementGuid>4cdb21a0-9b38-4874-abda-8d417dc347c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='إضافة الصور']/parent::*</value>
+      <webElementGuid>14725b55-4169-432a-9d69-a2e746898662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>4e694599-a7f3-4376-88c0-26cb7cb9ca48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>12987293-6011-4c79-a027-5a8b13527432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'add_picture_btn' and (text() = 'إضافة الصور' or . = 'إضافة الصور')]</value>
+      <webElementGuid>2779c1c9-0dc2-4681-8657-8d6084de4df0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

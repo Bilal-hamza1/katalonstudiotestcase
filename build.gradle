@@ -1,0 +1,33 @@
+plugins {
+  id 'java'
+  id "com.katalon.gradle-plugin" version "0.1.2"
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+
+    // Modern Applitools (Selenium 4 compatible)
+    implementation 'com.applitools:eyes-selenium-java4:4.62.0'
+    
+    // TestNG compatibility layer
+    implementation 'org.testng:testng:7.7.0'
+    
+    // Lock Selenium version
+    implementation 'org.seleniumhq.selenium:selenium-java:4.22.0'
+    
+    // Legacy support (if needed)
+    runtimeOnly 'org.seleniumhq.selenium:selenium-api:3.141.59'
+    
+  // sample dependencies
+  // rest-assured
+  // compile 'io.rest-assured:rest-assured:3.2.0'
+  // JsonPath
+  // compile 'io.rest-assured:json-path:3.2.0'
+  // XmlPath
+  // compile 'io.rest-assured:json-path:3.2.0'
+  // JSON Schema Validation
+  // compile 'io.rest-assured:json-schema-validator:3.2.0'
+}

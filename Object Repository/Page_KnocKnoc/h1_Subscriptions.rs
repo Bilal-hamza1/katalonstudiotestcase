@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Subscriptions</name>
+   <tag></tag>
+   <elementGuidId>0e2161ab-c13a-4dc6-8625-65d7dce0990c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-body1.css-9l3uo3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Subscriptions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>9fe6e09b-7dd8-4512-886c-09239fda6129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-9l3uo3</value>
+      <webElementGuid>8cc21c08-0527-4613-95ec-d59bb93538e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subscriptions</value>
+      <webElementGuid>ceaecca5-5490-4f1f-81db-1228f8f774cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;MuiBox-root css-1rx0zjp&quot;]/div[@class=&quot;MuiBox-root css-7nzfqb&quot;]/div[@class=&quot;MuiStack-root css-yxqvgh&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-body1 css-9l3uo3&quot;]</value>
+      <webElementGuid>8b1790fe-8a79-4a99-bff2-ff360129ec06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/h1</value>
+      <webElementGuid>be0e9aa3-5fc2-4363-80b7-10ddf2e05ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[1]/following::h1[1]</value>
+      <webElementGuid>0368c0e5-6170-46e3-889b-d3fbd35d6e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Community'])[2]/following::h1[1]</value>
+      <webElementGuid>8ee52159-ad89-487e-8ffc-87212d13c1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4dac6609-3026-4746-9680-6e8a5b05257d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KnocKnoc Card'])[1]/preceding::h1[1]</value>
+      <webElementGuid>86872812-3c7e-4ae8-9ee4-84d93cc6f68d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7e447d2e-ae90-48fb-82cd-e3701389f12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Subscriptions' or . = 'Subscriptions')]</value>
+      <webElementGuid>dc7e3f8f-3ad6-426f-a4c2-e3ad2a7f5647</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
